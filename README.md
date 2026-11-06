@@ -15,3 +15,7 @@ Identify who wrote an email from its writing style, using the Enron email corpus
 ## Data
 
 Enron Email Dataset, not included in this repository.
+
+## Earlier versions
+
+The `earlier-version/` folder keeps files from earlier versions of this project (DT-Author-identification) that differ from the files above.
